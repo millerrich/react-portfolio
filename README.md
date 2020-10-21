@@ -12,6 +12,8 @@
 * [Test](#test)
 * [Questions](#questions)
 
+![](gif/portfolio-gif.gif)
+
 ## Description
 An updated version of my earlier responsive portfolio built using react.js
 
